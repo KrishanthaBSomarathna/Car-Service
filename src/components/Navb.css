@@ -1,9 +1,0 @@
-.mrl{
-    margin-right: 20px;
-}
-.navbar {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1000; /* You can adjust the z-index based on your layout needs */
-  }
